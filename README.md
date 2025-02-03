@@ -131,17 +131,17 @@ Overall, this project provides a fun and educational way to explore advanced pro
 
 ## Ekran Görüntüleri
 
-### Oyunun Başlangıç Ekranı
+### Start Screen
 ![Oyuncu İsmi Giriş](assets/images/Ekran-goruntusu1.png)
 
 ![Grid Sayısı Giriş](assets/images/Ekran-goruntusu5.png)
 
-### Harita Oluşturma
+### Map Configuration
 ![Harita Oluşturma](assets/images/Ekran-goruntusu2.png)
 
-### Oyun İçi Görüntü
+### In-Game View
 ![Oyun İçi](assets/images/Ekran-goruntusu3.png)
 
-### Oyunun Sonu
+### End Game Screen
 ![Oyunun Bitişi](assets/images/Ekran-goruntusu4.png)
 
