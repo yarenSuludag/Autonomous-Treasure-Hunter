@@ -134,7 +134,7 @@ Overall, this project provides a fun and educational way to explore advanced pro
 ### Oyunun Başlangıç Ekranı
 ![Oyuncu İsmi Giriş](assets/images/Ekran-goruntusu1.png)
 
-![Grid Sayısı Giriş](assets/images/Ekran-goruntusu1.png)
+![Grid Sayısı Giriş](assets/images/Ekran-goruntusu5.png)
 
 ### Harita Oluşturma
 ![Harita Oluşturma](assets/images/Ekran-goruntusu2.png)
